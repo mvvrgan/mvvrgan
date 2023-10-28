@@ -20,7 +20,7 @@
 * <img height="15" src="https://github.com/github/explore/blob/main/topics/spotify/spotify.png"> <b>Spotify:</b> <a href="https://open.spotify.com/user/r0ibbvxw5zo6ea2hua4lmml7f?si=f7354664d7344549" target="_blank">@morgan</a>
 
 ### My Statistics
-<a>
+<div class="flex-container">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=mvvrgan&show_icons=true&include_all_commits=true&theme=dark&count_private=true&include_all_commits=true" alt="Github Stats" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mvvrgan&layout=compact&theme=dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats" alt="Github Stats" />
-</a>
+</div>
