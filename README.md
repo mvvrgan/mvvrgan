@@ -19,6 +19,9 @@
 * <img height="12" src="https://www.edigitalagency.com.au/wp-content/uploads/Discord-logo-icon-clyde-blurple-png.png"> <b>Discord:</b> <a href="https://discord.com/users/319877228936691713" target="_blank">@mvvrgan</a>
 * <img height="15" src="https://github.com/github/explore/blob/main/topics/spotify/spotify.png"> <b>Spotify:</b> <a href="https://open.spotify.com/user/r0ibbvxw5zo6ea2hua4lmml7f?si=f7354664d7344549" target="_blank">@morgan</a>
 
+[![Discord Presence](https://lanyard.cnrad.dev/api/319877228936691713)](https://discord.com/users/319877228936691713)
+
+
 ### My Statistics
 <div class="flex-container">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=mvvrgan&show_icons=true&include_all_commits=true&theme=dark&count_private=true&include_all_commits=true" alt="Github Stats" />
