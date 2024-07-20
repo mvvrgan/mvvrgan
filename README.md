@@ -13,6 +13,7 @@
 ### I program with
 - <img height="18" src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/main/text%20editors/vscode.svg"> Visual Studio Code
 - <img height="18" src="https://forum.sublimetext.com/uploads/default/original/3X/7/4/7483840f98832d90e041a4c650e4ee0666572a1a.png"> Sublime Text
+- <img height="18" src="https://github.com/github/explore/blob/main/topics/vim/vim.png?raw=true"> Vim
 
 
 ## Find me on
