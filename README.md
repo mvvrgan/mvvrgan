@@ -1,5 +1,5 @@
 ### 👋 Hi, I'm Morgan
-⠀	↳ a Full-Stack Developer @ University, studying a Bachelor's degree Software Engineering!
+⠀	↳ a Full-Stack Developer @ University, studying BSc in Software Engineering!
 
 ## My Tech Stack
 - <img height="20" src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/main/programming%20languages/typescript.svg"> Typescript
