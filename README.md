@@ -1,5 +1,5 @@
 ### 👋 Hi, I'm Morgan
-⠀	↳ a Software Engineering Graduate
+⠀	↳ a Software Engineering Graduate from the 🇬🇧 United Kingdom!
 
 ## My Tech Stack
 - <img height="20" src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/main/programming%20languages/typescript.svg"> Typescript
